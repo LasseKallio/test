@@ -1,0 +1,24 @@
+<?xml version="1.0" ?>
+<DirectoryContents>
+    <dir path="C:\Program Files (x86)\Kaseya\0ITTY936268798125862\kMsgQUploadCfg">
+        <file name="C:\Program Files (x86)\Kaseya\0ITTY936268798125862\kMsgQUploadCfg\KaLuaCoreKaLuaLogLogger.xml" created="130854042088156554" modified="130854043097010326" />
+        <file name="C:\Program Files (x86)\Kaseya\0ITTY936268798125862\kMsgQUploadCfg\KAVClientMessageKAVMessageLogger.xml" created="130854042988278135" modified="130854043097634328" />
+        <file name="C:\Program Files (x86)\Kaseya\0ITTY936268798125862\kMsgQUploadCfg\ServerRolesAudit.xml" created="130854035818817543" modified="130854035818817543" />
+    </dir>
+    <dir path="C:\Program Files (x86)\Kaseya\0ITTY936268798125862\KaluaLogs\Kalua\KaLuaCoreKaLuaLogLogger">
+        <file name="C:\Program Files (x86)\Kaseya\0ITTY936268798125862\KaluaLogs\Kalua\KaLuaCoreKaLuaLogLogger\out120861977.kalua" created="130854047085937333" modified="130854047085937333" />
+    </dir>
+    <dir path="C:\Program Files (x86)\Kaseya\0ITTY936268798125862\KaluaLogs\KAV\KAVClientMessageKAVMessageLogger">
+        <file name="C:\Program Files (x86)\Kaseya\0ITTY936268798125862\KaluaLogs\KAV\KAVClientMessageKAVMessageLogger\out120860214.kalua" created="130854047068309302" modified="130854047068309302" />
+        <file name="C:\Program Files (x86)\Kaseya\0ITTY936268798125862\KaluaLogs\KAV\KAVClientMessageKAVMessageLogger\out120860230.kalua" created="130854047068465302" modified="130854047068465302" />
+        <file name="C:\Program Files (x86)\Kaseya\0ITTY936268798125862\KaluaLogs\KAV\KAVClientMessageKAVMessageLogger\out120860245.kalua" created="130854047068621302" modified="130854047068621302" />
+        <file name="C:\Program Files (x86)\Kaseya\0ITTY936268798125862\KaluaLogs\KAV\KAVClientMessageKAVMessageLogger\out120860276.kalua" created="130854047068933303" modified="130854047068933303" />
+        <file name="C:\Program Files (x86)\Kaseya\0ITTY936268798125862\KaluaLogs\KAV\KAVClientMessageKAVMessageLogger\out120860292.kalua" created="130854047069089303" modified="130854047069089303" />
+        <file name="C:\Program Files (x86)\Kaseya\0ITTY936268798125862\KaluaLogs\KAV\KAVClientMessageKAVMessageLogger\out120860308.kalua" created="130854047069245303" modified="130854047069245303" />
+        <file name="C:\Program Files (x86)\Kaseya\0ITTY936268798125862\KaluaLogs\KAV\KAVClientMessageKAVMessageLogger\out120860323.kalua" created="130854047069401304" modified="130854047069401304" />
+        <file name="C:\Program Files (x86)\Kaseya\0ITTY936268798125862\KaluaLogs\KAV\KAVClientMessageKAVMessageLogger\out120860370.kalua" created="130854047069869304" modified="130854047069869304" />
+        <file name="C:\Program Files (x86)\Kaseya\0ITTY936268798125862\KaluaLogs\KAV\KAVClientMessageKAVMessageLogger\out120860401.kalua" created="130854047070181305" modified="130854047070181305" />
+        <file name="C:\Program Files (x86)\Kaseya\0ITTY936268798125862\KaluaLogs\KAV\KAVClientMessageKAVMessageLogger\out120860479.kalua" created="130854047070961306" modified="130854047070961306" />
+        <file name="C:\Program Files (x86)\Kaseya\0ITTY936268798125862\KaluaLogs\KAV\KAVClientMessageKAVMessageLogger\out120861993.kalua" created="130854047086093333" modified="130854047086093333" />
+    </dir>
+</DirectoryContents>
